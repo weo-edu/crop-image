@@ -1,0 +1,20 @@
+{
+  "name": "crop-image",
+  "version": "0.1.0",
+  "description": "Takes an img tag and crops it according to the specified dimensions/offsets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crop",
+    "image",
+    "browser"
+  ],
+  "author": "ashaffer (http://github.com/ashaffer)",
+  "license": "MIT",
+  "dependencies": {
+    "canvas-to-blob": "0.0.0",
+    "img-to-canvas": "^0.1.1"
+  }
+}

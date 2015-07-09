@@ -1,6 +1,6 @@
 {
   "name": "crop-image",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Takes an img tag and crops it according to the specified dimensions/offsets",
   "main": "index.js",
   "repository": "weo-edu/crop-image",

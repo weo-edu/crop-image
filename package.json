@@ -16,6 +16,6 @@
   "license": "MIT",
   "dependencies": {
     "canvas-to-blob": "0.0.0",
-    "img-to-canvas": "^0.1.1"
+    "img-to-canvas": "^0.1.2"
   }
 }

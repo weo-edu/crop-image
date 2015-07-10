@@ -9,6 +9,9 @@ Convert an img tag into an (optionally cropped) blob (works only in browser).
   * `y` the distance along the y axis to begin cropping
   * `width` the width of the section you want to crop
   * `height` the height of the section you want to crop
+  * `scaleWidth` scale the final image up/down to this width (optional - defaults to `width`)
+  * `scaleHeight` scale the final image up/down to this height (optional - defaults to `height`)
+
 
 Returns a blob containing the cropped image.
 
